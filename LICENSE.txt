@@ -1,0 +1,34 @@
+ACADEMIC & NON-COMMERCIAL USE LICENSE
+
+Project Title: Manufacturing Plant Network
+Institution: Faculty of Engineering and Technology (FET),
+Sri Sri University, Cuttack, Odisha, India
+
+Copyright © 2025
+
+Authors:
+- Amal Antony Alex 
+- Swosti Sanhita Jena 
+- Chidananda Sashank Bhuyan 
+- Chiranjibi Dash 
+
+This project report and all associated materials (including diagrams,
+network designs, configurations, documentation, and simulations) are
+part of an academic Minor Project submitted in partial fulfillment of
+the requirements for the B.Tech degree at Sri Sri University.
+
+Permission is granted to read, reference, and cite this work strictly
+for educational, academic, and research purposes, provided that proper
+credit is given to the authors and the institution.
+
+Commercial use, reproduction for profit, redistribution, modification,
+or use of this work (in whole or in part) for industrial, corporate,
+or business purposes is strictly prohibited without prior written
+permission from the authors and the institution.
+
+This work may not be submitted, in part or whole, as another academic
+submission by any individual or organization.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED.
+THE AUTHORS AND INSTITUTION SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY ARISING FROM THE USE OF THIS MATERIAL.

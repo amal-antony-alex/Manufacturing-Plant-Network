@@ -1,0 +1,105 @@
+# ============================
+# Operating System Files
+# ============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================
+# Editor / IDE Files
+# ============================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.autosave
+
+# ============================
+# Microsoft Office Temporary Files
+# ============================
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.asd
+*.wbk
+
+# ============================
+# Draft & Working Documents
+# (Final versions should be committed)
+# ============================
+Draft_*
+*_draft.*
+*_v1.*
+*_v2.*
+*_old.*
+*_backup.*
+
+# ============================
+# Cisco Packet Tracer
+# ============================
+*.pkt.bak
+*.pkt.tmp
+
+# ============================
+# Exported / Generated Files
+# (Keep final PDFs only)
+# ============================
+*.aux
+*.out
+*.toc
+*.lof
+*.lot
+
+# ============================
+# Archives
+# ============================
+*.zip
+*.rar
+*.7z
+
+# ============================
+# Python / Scripts (if any)
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.env/
+
+# ============================
+# Node / Tooling (if any)
+# ============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ============================
+# Temporary Images / Exports
+# ============================
+temp/
+exports/
+screenshots/raw/
+
+# ============================
+# Sensitive / Personal Files
+# ============================
+*.key
+*.pem
+*.crt
+*.secret
+
+# ============================
+# Do NOT ignore these
+# ============================
+!LICENSE
+!README.md
+!*.pdf
+!*.pkt
+!*.png
+!*.jpg
+!*.jpeg

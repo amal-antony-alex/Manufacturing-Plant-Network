@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "a2bd9877b075e263",
+    "type": "split",
+    "children": [
+      {
+        "id": "1610cc2710eca6ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bffe94716086c1b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "MINOR PROJECT.canvas",
+                "viewState": {
+                  "x": 1452.5953246630838,
+                  "y": 214.47224386132294,
+                  "zoom": -1.3333333333333335
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "MINOR PROJECT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a98aa2dc81f16807",
+    "type": "split",
+    "children": [
+      {
+        "id": "d512e66d089ef98f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3574a87e33afd29d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6324a848b7c2f8f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fac11607bae15869",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2c78fb15e45a29d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e74a70599c9940f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcb40982fe5c3147",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MINOR PROJECT.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MINOR PROJECT"
+            }
+          },
+          {
+            "id": "f5eaeaf8a8cc6c20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MINOR PROJECT.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MINOR PROJECT"
+            }
+          },
+          {
+            "id": "4fc6af6fcfb65c1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e66b4b9707f9740",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MINOR PROJECT.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MINOR PROJECT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2bffe94716086c1b",
+  "lastOpenFiles": [
+    "Picture1.png",
+    "Scenario's for Minor Project.docx",
+    "NetSec Logo.png",
+    "Untitled.md",
+    "Pasted image 20241226121411.png",
+    "IMG_8310 (1).jpg",
+    "Amal Antony Alex/Untitled.canvas",
+    "Amal Antony Alex/Welcome.md",
+    "Amal Antony Alex",
+    "Minor Project.md",
+    "MINOR PROJECT.canvas",
+    "2024-09-12.md",
+    "create a link.md",
+    "Welcome.md",
+    "MUN.md"
+  ]
+}
