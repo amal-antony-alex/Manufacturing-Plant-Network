@@ -66,4 +66,36 @@ The architecture ensures **fault tolerance, scalability, and efficient managemen
 
 ---
 
-## 📁 Repository Contents
+## 👥 Project Team
+- **Amal Antony Alex** (FET-BCD-2023-27-020)  
+- **Swosti Sanhita Jena** (FET-BCD-2023-27-022)  
+- **Chidananda Sashank Bhuyan** (FET-BCD-2023-27-025)  
+- **Chiranjibi Dash** (FET-BCD-2023-27-026)
+
+---
+
+## 👨‍🏫 Project Guides
+- **Dr. Chinmaya Kumar Nayak**  
+  Associate Professor, FET, Sri Sri University  
+- **Ms. Neha Bagle**  
+  Cyber Security Engineer and Trainer  
+
+---
+
+## 📜 License
+This project is licensed for **Academic and Non-Commercial Use Only**.  
+See the `LICENSE` file for complete terms.
+
+---
+
+## 📌 Acknowledgement
+We sincerely thank our project guides, faculty members of FET, Sri Sri University, and our peers for their guidance, support, and encouragement throughout the completion of this project.
+
+---
+
+## 🔮 Future Scope
+- Integration of AI-based network analytics
+- Adoption of IPv6 for scalability
+- 5G-enabled IoT and IIoT devices
+- SD-WAN and cloud-based network management
+- Digital Twin-based simulation models
